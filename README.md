@@ -6,7 +6,8 @@
 UNIVERSIDAD TECNOLÓGICA DE XICOTEPEC DE JUÁREZ <br><br>
 Materia: Desarrollo de Dispositivos Inteligentes <br>
 200070_Mauricio Ramírez López<br>
-Práctica 03: Creacion de la la primera aplicacion para Wearables "Hola Mundo"<br>
+Práctica 03: Creación de la primera aplicación para Wearables "Hola Mundo".<br>
+Descripción: Se creó una aplicación en Android Studio para Wear OS con la API 30 que al ejecutarla manda un "Hola Mundo" en pantalla.
 Fecha entrega: 17 de Mayo del 2023
 
 
